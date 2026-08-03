@@ -1,6 +1,6 @@
 ![](images/banner.png)
 
-<div id="badges" style="text-align: center;">
+<div id="badges" align="center">
 
 [![Badge linking to personal website](https://img.shields.io/badge/-cartermsmith.github.io-9F225F?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAABpElEQVR4nO2bUW7CMAxAOzRpnI9dYJwMLgDng6/tK1JVpQtObD9H+H3T2n5JI6D2siQJxu3r55fO4YMIWiv8+3lFcnEN2lpxQoJbQMl29xRhHmjkOfcQYRZA84CzFKF+Y6uT3UrCQfNm0uJPj4vo3hZyVaxqFH4/nkUxtXbE0E16VqS16t4iui62KHyNpwTRhdaFb/EQ8fIFlgdcC0sRzQ96r/p/WIjY/UCkwrdIRLQkqAjwKnyLhoihL0KnxwUrvsQfpVsAWfia0UX47AkYkZKX9KBU/S0wIymAToAmBdAJ0KQAOgGaFEAnQJMC6ARoUgCdAE0KoBOgSQF0AjQpgE6AJgXQCdCkADoBGvF7gfK/e7T3A9L3AYXuHdAb0IKRXMQ7oBZ4hpeje6icAffj2X1HaMVTb5Cw3g3aTRIvtZJEaJboWfGhDpEalAi0R6iG12MRqkushqUIr17B4XZT7cdiik7RGt79wiF6hWv0iKAapZdlkoGJgsXMgOlIipaEqSZGakSeGwo1NrfGa3IszOBkwXt2EPlHaK9IanoUJcL88FvzB/0MyoQuJPpVAAAAAElFTkSuQmCC&logoColor=auto)](https://cartermsmith.github.io)
 [![Badge linking to LinkedIn profile](https://custom-icon-badges.demolab.com/badge/cartermsmith-9F225F?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/carter-m-smith/)
