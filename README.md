@@ -36,9 +36,9 @@ I'm happy to connect on [LinkedIn](https://www.linkedin.com/in/carter-m-smith), 
 
 <div>
 
-[![Badge linking to r-project.org](https://img.shields.io/badge/R-9F225F.svg?logo=r&logoColor=3867B6)](https://www.r-project.org/) 
+[![Badge linking to r-project.org](https://img.shields.io/badge/R-9F225F.svg?logo=r&logoColor=white)](https://www.r-project.org/) 
 [![Badge linking to python.org](https://img.shields.io/badge/Python-9F225F?logo=python&logoColor=white)](https://www.python.org/)
-[![Badge linking to duckdb.org/](https://img.shields.io/badge/Duckdb-9F225F?logo=Duckdb&logoColor=yellow)](https://duckdb.org/)
+[![Badge linking to duckdb.org/](https://img.shields.io/badge/Duckdb-9F225F?logo=Duckdb&logoColor=white)](https://duckdb.org/)
 [![Badge linking to quarto.org](https://img.shields.io/badge/Quarto-9F225F?logo=quarto&logoColor=white)](https://quarto.org/)
 
 </div>
@@ -52,8 +52,8 @@ I'm happy to connect on [LinkedIn](https://www.linkedin.com/in/carter-m-smith), 
 <div>
 
 [![Badge linking to python.org](https://img.shields.io/badge/Python-9F225F?logo=python&logoColor=white)](https://www.python.org/)
-[![Badge linking to jsPsych.org](https://img.shields.io/badge/JavaScript-9F225F?logo=javascript&logoColor=F7DF1E)](https://www.jspsych.org/v7/)
-[![Badge linking to qualtrics.com](https://img.shields.io/badge/Qualtrics-9F225F?logo=qualtrics&logoColor=F7DF1E)](https://www.qualtrics.com/)
+[![Badge linking to jsPsych.org](https://img.shields.io/badge/JavaScript-9F225F?logo=javascript&logoColor=white)](https://www.jspsych.org/v7/)
+[![Badge linking to qualtrics.com](https://img.shields.io/badge/Qualtrics-9F225F?logo=qualtrics&logoColor=white)](https://www.qualtrics.com/)
 [![Badge linking to ffmpeg.org](https://img.shields.io/badge/ffmpeg-9F225F?logo=ffmpeg&logoColor=white)](https://ffmpeg.org/)
 
 </div>
