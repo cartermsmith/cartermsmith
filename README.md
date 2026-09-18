@@ -43,7 +43,7 @@ I'm happy to connect on [LinkedIn](https://www.linkedin.com/in/carter-m-smith), 
 
 </div>
 
-- I primarily work with Python and the R language for statistical computing. Polished versions of my data analysis projects will be published to my [personal website](https://cartermsmith.github.io) and here on GitHub soon.
+- I primarily work with Python and the R language for statistical computing. Check out my data analysis projects on my [personal website](https://cartermsmith.github.io) and [here on GitHub](https://github.com/cartermsmith/predictors-youth-vaping).
 - Learning Duckdb so I can work with more big data. 
 - Quarto for writing and publishing my documents and analyses.
 
