@@ -20,9 +20,9 @@ Currently:
 
 Previously:
 
-- I explored how changing the size of virtual reality slot machines altered gambling behaviour, [showing how environmental design shapes decision-making](https://cartermsmith.github.io/research/smith-scheerer-2025-thesis/).
+- I explored how changing the size of virtual reality slot machines altered gambling behaviour, [showing how environmental design shapes decision-making](https://cartermsmith.github.io/projects/smith-scheerer-2025-thesis/).
 
-- I studied how auditory sensitivities like misophonia and hyperacusis [relate to poor mental health outcomes](https://cartermsmith.github.io/research/smith-et-al-2026-DST/) in post-secondary students.
+- I studied how auditory sensitivities like misophonia and hyperacusis [relate to poor mental health outcomes](https://cartermsmith.github.io/projects/smith-et-al-2026-DST/) in post-secondary students.
 
 Right now, I'm completing my MA in Cognitive Psychology at the University of Waterloo. 
 
